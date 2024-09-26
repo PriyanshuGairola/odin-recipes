@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+.lists,li{
+    color:red;
+    font-size: larger;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.heading{
+    text-align: center;
+    font-size:80px;
+}
+button{
+    background-color:aquamarine;
+}
